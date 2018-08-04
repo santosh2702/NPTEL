@@ -1,0 +1,124 @@
+An electronic machine can understand
+ English statements
+ Flow chart
+ Binary digits
+ Integers
+
+A 2D diagram to represent the steps to be followed to solve a problem is known as
+ Flow-chart
+ Pseudo-code
+ Both (a) and (b)
+ None of these
+
+A Pseudo-code is 
+ An equivalent of a flow chart
+ English-like statements
+ Steps to write a program
+ All the above
+
+What is algorithm?
+ A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+ A process or set of rules to be followed in calculations or other problem-solving operations, especially by a human.
+ A process or set of rules to be followed to solve numerical problems only.
+ A process or set of rules to be followed in to solve logical problems only.
+
+Which one of the following statement is the most appropriate?
+ Flowchart is diagrammatic representation of the algorithm. Pseudo code is just another name of algorithm.
+ Flowchart is basically a diagrammatic representation of the algorithm. Whereas in pseudo code normal English language is translated into the programming languages to be worked on.
+ Pseudo code is basically a diagrammatic representation of the algorithm. Whereas in flowchart normal English language is translated into the programming languages to be worked on.
+ Pseudo code is another name of programming. Whereas in flowchart is diagrammatic representation of algorithm.
+
+Compiler helps in the translation from
+ Integer to binary
+ High-level program to binary digits
+ High-level language to machine level language
+ Pseudo code to computer program
+
+Which of the following statement is correct?
+ Interpreter translates program one statement at a time; compiler scans the entire program and translates it as a whole into machine code.
+ Compiler translates program one statement at a time, Interpreter Scans the entire program and translates it as a whole into machine code.
+ Both Interpreter and Complier translate one statement at a time to machine code.
+ None of the above.
+ 
+C programming language uses
+ Compiler
+ Interpreter
+ Both
+ None of the above
+
+The word length of a computer is measured in
+ hexadecimal
+ millimetres
+ meters
+ bits
+
+Which part of the computer is used for calculating and comparing?
+ Hard Disk
+ Control unit
+ ALU
+ Monitor
+
+The correct sequence of memory access while running a computer program is 
+ RAM ‡ DISK ‡ RAM ‡CPU
+ CPU ‡ DISK‡RAM‡CPU
+ DISK‡RAM‡CPU‡DISK
+ DISK‡RAM‡DISK‡CPU
+
+When we write X=10 and Y=X, which of the following memory assignment is correct
+ X and Y will have same location and 10 will be stored.
+ X and Y will have two distinct locations and 10 will be stored in both
+ X and Y will have same location and only X will contain value 10
+ X and Y will have two distinct locations and only X will contain value 1
+
+Which is more memory efficient?
+ Interpreter
+ Compiler
+ Both are same
+ Canít say
+
+Debugging is easier in which case?
+ That uses Compiler
+ That uses Interpreter
+ It depends on the expertise of the programmer
+ None
+
+When we write a program, before saving and compilation, it is saved into
+ ROM
+ RAM
+ DISK
+ CD
+
+CPU gets the address of the next instructions from
+ Register
+ RAM
+ Instruction Register
+ Program Counter
+
+X is an integer (X=1234). The print value of Y of the algorithm below is
+[Note: The modulo operator returns the remainder of the left side divided by the right side. So 5%2 will evaluate to 1. (5 / 2 = 2 remainder: 1).]
+
+ 10
+ 11223344
+ 4321
+ 0
+
+The following algorithm is used to find a number X is even or odd. What will be the content of the empty box?
+
+ X%10=0?
+ X/10=0?
+ X/2=0?
+ X%2=0?
+1
+What will be the output of the algorithm given below?
+
+ 51
+ 52
+ 50
+ Compilation error
+
+The input N from the user is 6. The output of the following algorithm is
+
+ 21
+ 720
+ 1
+ 1024
