@@ -2,4 +2,6 @@
 12,8 Weeks Course through Nptel with some Quiz and assignments.
 ## Content
 
-Introduction
+Problem solving in C
+
+Introduction to Machine Learning
